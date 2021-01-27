@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hello \<Geeks/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>
+
+I am **Jatin** 😃, from Bhopal, Madhya Pradesh.
+
+ 📫 Links :
+-  Portfolio: [//bit.ly/32ly0Ok](https://gupta-jatin.herokuapp.com/)
+-  LinkedIn: [//jatin1990gupta](https://www.linkedin.com/in/jatin1990gupta/)
+-  HackerRank: [//jatin1990gupta](https://www.hackerrank.com/jatin1990gupta)
+-  CodeChef: [//jatin_1233](https://www.codechef.com/users/jatin_1233)
+
+
+##  ⚡ Web Technologies
+-   Front-end development using  **React.js**
+-   Backend development using  **Node.js || Express.js**
+-   Solving Data structure and algorithm questions in  **C++**
+
 
 <!--
 **jatin1990gupta/jatin1990gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
