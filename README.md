@@ -10,7 +10,7 @@ I am **Jatin** 😃, from Bhopal, Madhya Pradesh.
 
 
 ##  ⚡ Web Technologies
--   Front-end development using  **React.js with TS, Styled Components, CSS**
+-   Front-end development using  **React.js with TS, Styled Components, SCSS**
 -   Backend development using  **Node.js, Express.js**
 -   Solving Data structure and algorithm questions in  **C++**
 
