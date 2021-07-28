@@ -3,15 +3,15 @@
 I am **Jatin** 😃, from Bhopal, Madhya Pradesh.
 
  📫 Links :
--  Portfolio: [//bit.ly/32ly0Ok](https://gupta-jatin.herokuapp.com/)
+-  Portfolio: [//gupta-jatin.herokuapp.com/](https://gupta-jatin.herokuapp.com/)
 -  LinkedIn: [//jatin1990gupta](https://www.linkedin.com/in/jatin1990gupta/)
--  HackerRank: [//jatin1990gupta](https://www.hackerrank.com/jatin1990gupta)
 -  CodeChef: [//jatin_1233](https://www.codechef.com/users/jatin_1233)
+-  GeeksForGeeks: [//jatin1990gupta](https://auth.geeksforgeeks.org/user/jatin1990gupta)
 
 
 ##  ⚡ Web Technologies
--   Front-end development using  **React.js**
--   Backend development using  **Node.js || Express.js**
+-   Front-end development using  **React.js with TS, Styled Components, CSS**
+-   Backend development using  **Node.js, Express.js**
 -   Solving Data structure and algorithm questions in  **C++**
 
 
